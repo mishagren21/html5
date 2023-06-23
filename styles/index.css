@@ -1,0 +1,29 @@
+.header {
+  overflow: hidden;
+  background-color: aqua;
+}
+
+.header .logo {
+  float: left;
+}
+
+.header .links {
+  float: right;
+  overflow: hidden;
+}
+
+.header .clear {
+  clear: both;
+}
+
+.header .link {
+  float: left;
+  padding: 10px;
+  display: block;
+  margin-right: 10px;
+  background-color: #E1F0FF;
+}
+
+.header img {
+  display: block;
+}
